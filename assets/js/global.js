@@ -1,1 +1,1 @@
-jQuery(document).ready(function(){$(".scrolltop__button").click(function(){return $("html, body").animate({scrollTop:0},"slow"),!1})});
+(function(){$(".scrolltop__button").click(function(){return $("html, body").animate({scrollTop:0},"slow"),!1})}).call(this);

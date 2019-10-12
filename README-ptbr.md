@@ -2,6 +2,8 @@
 
 # Typing
 
+**Versão: 4.0.1**
+
 ![](https://img.shields.io/github/languages/top/williamcanin/typing-jekyll-template.svg?colorB=blue&style=flat-square) ![](https://img.shields.io/github/commit-activity/y/williamcanin/typing-jekyll-template.svg?style=flat-square) ![](https://img.shields.io/github/last-commit/williamcanin/typing-jekyll-template.svg?style=flat-square) ![](https://img.shields.io/github/last-commit/williamcanin/typing-jekyll-template/master.svg?style=flat-square) ![](https://img.shields.io/github/watchers/williamcanin/typing-jekyll-template.svg?style=flat-square) ![](https://img.shields.io/github/stars/williamcanin/typing-jekyll-template.svg?style=flat-square) ![](https://img.shields.io/github/forks/williamcanin/typing-jekyll-template.svg?style=flat-square)
 
 ![Typing Change Themes](https://raw.githubusercontent.com/williamcanin/typing-jekyll-template/master/_src/doc/readme/images/change_themes.gif)
@@ -24,6 +26,20 @@ A página de contato (**_pages/global/contact.md**) usa o recurso [Formspree](ht
 userdata:
   email: "youremail@domain.com"
 ```
+
+Depois, você deve alterar o tipo de plano que você tem no [Formspree](https://formspree.io) na opção:
+
+```yml
+website:
+  ...
+  content:
+    ...
+    contact:
+      formspree:
+        plan: "free|paid"
+```
+
+> NOTA: O plano **paid**, é um plano pago, onde o formulário irá ser enviar através do AJAX, que vai retorna uma resposta em modal de sucesso ou falha, se o e-mail foi entregue ou não. Já o plano **free**, que é o plano grátis, não terá um retorno de falha caso a mensagem não seja enviada com sucesso. Você pode saber mais em: [Formspree Plans](https://formspree.io/plans)
 
 Além disso, todo o conteúdo do arquivo `_data/informations.yml` deve ser alterado conforme a gosto e suas necessidades.
 
@@ -272,6 +288,8 @@ Ativa ou desativa paginação para o blog [padrão: true]:
 pagination:
   enabled: true
 ```
+
+> NOTA: Se quiser desativar o paginador, após fazer as configurações de cima, você terá que ir na página **_pages/blogger/blog.md** e deixar o **pagination -> enable** para **false**.
 
 Altera a porta do servidor [padrão: 4000]:
 
