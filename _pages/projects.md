@@ -13,10 +13,10 @@ menu:
   enable: true
   local: [default]
 script: []
-published: true
+published: false
 permalink: /projects/ # add permilink for page. E.g: /smallparty/
 ---
- 
+
 If you wanted to know about my favorite chores, this is the correct page. You find my designs of my own, or participation.
 
 ## Major collaborations

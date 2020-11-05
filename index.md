@@ -1,6 +1,6 @@
 ---
 layout: hello
-title: Typing
+title: About me...
 menu:
   enable: false
   local: [null]
@@ -8,14 +8,14 @@ published: true
 script: [hello.js]
 ---
 
-Hey, I'am [Typing](https://github.com/williamcanin/typing-jekyll-template){: target="_blank"}. I'm a theme [Jekyll](https://jekyllrb.com){: target="_blank"} Inspired by the habit of typing. Using an appearance that resembles the typewriter. A simple, fast and efficient way of reading, just like the old days.
+I am Etienne and I work as a "Site Reliability Engineer".
 
-'Typing' is intended for users with more technical content than for users who wish to have a stylish page. Keep it simple!
 
-**Let's see some details about this page:**
+<p><br /></p>
+When I was young, my dream was to become a secret agent; After the realization set in that I am not on the path to become that famous secret agent, I started to study System Engineering. Now, I am part of an amazing and smart team, contributing in the big IT world. Ones of my favorite things are investigating possible attacks on the system and automate tasks.
 
-This page Hello exists to put everything about you, as if it were a simplified 'About'. The file for editing this page is in the directory root: `index.md`.
+<p><br /></p>
+When I am not working, I am usually watching videos on YouTube (mostly landings and takeoffs - I enjoy watching everything about airports and planes), movies on Netflix or taking a look at my social media (mostly Twitter).
 
-Hey Nerd! How is it? You're analyzing me, but are not you using me? Use me now! I'm not into embellishment. 
-
-[Download](https://github.com/williamcanin/typing-jekyll-template){: target="_blank"}
+<p><br /></p>
+I love traveling, learning new things and meeting people (by the way, I am everybody's friend)!

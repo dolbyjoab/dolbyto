@@ -1,0 +1,34 @@
+---
+layout: post
+title:  "El Cucha"
+date:   2018-03-15 10:01:43 -0300
+tags: ["story","adventure","friendship"]
+published: true
+comments: false
+script: [post.js]
+excerpted: |
+    Con Facundo, nos conocimos en la facultad, el primer dia que pisaba un aula de...
+day_quote:
+  title:
+  description:
+---
+
+
+<div style="text-align: justify">
+
+A Eric, le dicen (decian, porque no le gusta que le digan eso) `Cucha` porque cuando jugaba al fútbol; El levantaba la pelota y le decían que tenía una cuchara por cómo la 'empalaba'.
+<br/>
+Mamita, mi amigo era un futbolista de carrera!!!
+<br/>
+<br/>
+Con Facundo, nos conocimos en la facultad, el primer dia que pisaba un aula de la UTN en Buenos-Aires. Si la memoria no me falla, tenia que rendir libre el examen de ingreso para mi carrera. Libre, porque ya no habia mas cupon para anotarme a los cursos de ingreso de dos meses.
+Con mi poco español de aquella epoca (sigo sin hablar bien español), me anime a ir a rendir el examen. Me acuerdo que estaba muy nervioso, ya que era obvio que no iba a entender nada del examen (porque esta en español). Cuando se terminó el tiempo y me sacaron la hoja, me puse a llorar (si, soy llorón o era llorón). Ahí fue cuando Facundo me habló y me ofreció una botella de agua para bajar un poco mi nivel de nervios.
+<br/>
+<br/>
+Hubo paro de transporte que arrranco unos minutos despues de rendir, asi que tuvimos que caminar hasta llegar al centro. Ibamos caminando y conversabamos; no se de que y como nos entendiamos pero asi fue como empezamos a ser amigos.
+<br/>
+<br/>
+A lo largo del tiempo, conocí a la familia Monzon y el famoso Polaco que despues tambien terminó siendo mi amigaso. Cabe mencionar que hasta el dia de hoy, el papa de Facundo me debe un asado.
+Facundo, su famila y sus amigos son personas que realmente vale la pena conocer y pasar tiempo con ellas.
+
+</div>

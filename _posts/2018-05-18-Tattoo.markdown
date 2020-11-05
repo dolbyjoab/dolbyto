@@ -1,0 +1,30 @@
+---
+layout: post
+title:  "The tattoo!"
+date:   2018-05-18 16:01:43 -0300
+tags: ["story","friendship"]
+published: true
+comments: false
+script: [post.js]
+excerpted: |
+    This tattoo is a symbol of a huge and really appreciated friendship...
+day_quote:
+  title:
+  description:
+---
+
+<center>
+This tattoo is a symbol of a huge and really appreciated friendship between Franco and I. <br/><br/>
+
+{% imager Tattoo2.jpg|center %}
+<br/>
+<br/>
+
+
+We were thinking on doing something small; It was a bit difficult to choose what exactly it supposed to look like, since we did not want to write phrases (or words).<br/>
+
+
+The drawing is simple as we are; We are just how you see us, maybe for the skin's color, outside we look a little different and that is why the different jam's colors.<br/>
+
+We are both funnies & sympathetic <br/>
+</center>

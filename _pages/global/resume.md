@@ -13,7 +13,7 @@ menu:
   enable: true
   local: [default]
 script: [resume.js]
-published: true
+published: false
 permalink: /resume/ # add permilink for page. E.g: /smallparty/
 ---
 

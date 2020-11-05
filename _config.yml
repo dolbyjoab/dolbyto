@@ -1,11 +1,11 @@
 # the base hostname & protocol for your site, e.g. http://example.com
-url: "https://williamcanin.me"
+url: "https://dolbyto.com/"
 # the subpath of your site, e.g. /blog
-baseurl: "/typing-jekyll-template"
+baseurl: ""
 
 # Plugins de player - Jektify
 jektify:
-  enable: true
+  enable: false
   open: true
   toggle:
     enable: true
@@ -26,7 +26,7 @@ jektify:
       To listen to the full song, open your Spotify and start these musics.
 
 
-# Attention! Do not change the information below as it is 
+# Attention! Do not change the information below as it is
 # for development unless you know what you are doing.
 
 include: ['_blog','_pages']

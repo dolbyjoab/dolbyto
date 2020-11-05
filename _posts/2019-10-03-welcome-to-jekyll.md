@@ -1,19 +1,19 @@
-﻿---
+---
 layout: post
 title:  "Welcome to Jekyll!"
 date:   2019-10-03 10:22:16 -0300
 tags: ["example","welcome","jekyll","typing"]
-published: true
-comments: true
+published: false
+comments: false
 script: [post.js]
 excerpted: |
     You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site ...
 day_quote:
-  title: The word of the day!
-  description: |
-    Put a very powerful message.
----
+  title:
+  description:
 
+---
+﻿
 
 * Do not remove this line (it will not be displayed)
 {: toc}

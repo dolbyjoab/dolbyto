@@ -1,7 +1,7 @@
-# In this file you will put information for your website, 
+# In this file you will put information for your website,
 # string modifications, add email and many more.
 # ____________________________________________________
-# Attention! Change only the values of the variables! 
+# Attention! Change only the values of the variables!
 # Do not change the position of the variables.
 # ____________________________________________________
 
@@ -12,10 +12,10 @@ website:
     subtitle: |
       It will not have forecast of return. Meanwhile, follow me on the social networks below.
 # Theme - Values [ typing | whiteglass | cloudysky | hacking | littlegirl | custom ]
-  theme: "typing"
+  theme: "hacking"
 # Configuration default
-  title: "Typing"
-  description: "Typing - A Theme for Jekyll"
+  title: "DolbyTo"
+  description: "Etienne Delsy"
   launch: 2015
   metatag:
     google_site_verification:
@@ -37,11 +37,11 @@ website:
 # Sidebar
   sidebar:
     avatar:
-      img: "typing_face.png"
+      img: "author.png"
       flip:
         img: "typing_back.png"
     title:
-      text: "Hey, <br> I'm Typing."
+      text: "Hey, <br> I'm Etienne"
       size: "2.3rem"
     menu:
       blog:
@@ -70,16 +70,16 @@ website:
       count_comments:
         text: "Comments"
       author:
-        avatar: "author.png"
-        title: "Author"
-        name: "Typing Theme"
-        description: |
-          Hi! I'm the Typing theme. :)
+        avatar: ""
+        title: ""
+        name: ""
+        description: 
+
       share:
         title: "Share this post"
       comments:
         title: "Leave a comment on this post"
-  
+
   # Postlist
     postlist:
       pagination:
@@ -131,7 +131,7 @@ website:
           Here you find the posts related to the specified tag.
 # Footer
   footer:
-    message: "Simplicity is fashionable."
+    message: "Dream enormously big, yes you can."
 
 # User data
 userdata:
@@ -145,24 +145,16 @@ userdata:
       - title: Twitter
         id: twitter
         icon: fa-twitter
-        url: https://twitter.com
+        url: https://twitter.com/DolbyTo
 
-      - title: Youtube
-        id: youtube
-        icon: fa-youtube
-        url: https://youtube.com
 
       - title: LinkedIn
         id: linkedin
         icon: fa-linkedin
         url: https://linkedin.com
 
-      - title: Facebook
-        id: facebook
-        icon: fa-facebook
-        url: https://facebook.com
 
       - title: Instagram
         id: instagram
         icon: fa-instagram
-        url: https://instagram.com
+        url: https://instagram.com/DolbyTo

@@ -9,7 +9,7 @@ menu:
   enable: true
   local: [default]
 script: [contact.js]
-published: true
+published: false
 permalink: /contact/ # add permilink for page. E.g: /smallparty/
 ---
 

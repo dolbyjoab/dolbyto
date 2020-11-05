@@ -9,7 +9,7 @@ menu:
   enable: true
   local: [blog]
 script: []
-published: true
+published: false
 permalink: /feed.xml # add permilink for page. E.g: /smallparty/
 ---
 
